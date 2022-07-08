@@ -1,3 +1,4 @@
+# 此项目转移至 https://github.com/web3chain33/pressure-test
 存证溯源的压力测试仓库
 
 编译打包：
